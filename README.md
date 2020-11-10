@@ -1,7 +1,7 @@
 # Recipes
 
-No tagged notes found
-
+* main_course
+  * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
 
 ---
 
