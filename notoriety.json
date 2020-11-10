@@ -1,0 +1,5 @@
+{
+  "input_path": "recipes/**/*.md",
+  "output_file": "README.md",
+  "template_file": "README.md.eex"
+}
