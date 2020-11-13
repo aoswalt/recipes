@@ -1,5 +1,5 @@
 ---
-tags: [main_course]
+tags: [main_course, beef]
 source: The Food Lab, p 262
 ---
 

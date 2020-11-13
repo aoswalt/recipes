@@ -1,7 +1,21 @@
 # Recipes
 
-* main_course
+* beef
+  * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
   * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
+
+* chicken
+  * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
+  * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
+
+* main_course
+  * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
+  * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
+  * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
+  * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
+
+* side_dish
+  * [Socca](recipes/socca.md)
 
 ---
 
