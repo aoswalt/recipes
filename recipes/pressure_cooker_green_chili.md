@@ -34,3 +34,7 @@ source: https://www.seriouseats.com/recipes/2015/04/print/pressure-cooker-fast-a
 5. Blend with a hand blender or in a standing blender and season to taste with salt.
 6. Add cannellini beans and simmer for 10 minutes
 7. Return chicken to sauce, discarding skin and bones and shredding if desired.
+
+## Notes
+
+* Best to double the recipe
