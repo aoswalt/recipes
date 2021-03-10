@@ -12,9 +12,11 @@
   * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
   * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
   * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
+  * [Paneer](recipes/paneer.md)
   * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
 
 * side_dish
+  * [Paneer](recipes/paneer.md)
   * [Socca](recipes/socca.md)
 
 ---
