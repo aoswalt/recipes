@@ -1,5 +1,5 @@
 ---
-tags: [main_course, side_dish]
+tags: [side_dish]
 source: https://www.thekitchn.com/how-to-make-paneer-cheese-in-30-minutes-cooking-lessons-from-the-kitchn-57008
 ---
 

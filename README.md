@@ -12,12 +12,16 @@
   * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
   * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
   * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
-  * [Paneer](recipes/paneer.md)
   * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
+  * [Sweet Potato Latkes](recipes/sweet_potato_latkes.md)
 
 * side_dish
+  * [Apple Chutney](recipes/apple_chutney.md)
+  * [Green Quinoa Tabbouleh](recipes/green_quinoa_tabbouleh.md)
+  * [Jalapeno Lime Sour Cream](recipes/jalapeno_lime_sour_cream.md)
   * [Paneer](recipes/paneer.md)
   * [Socca](recipes/socca.md)
+  * [Sweet Potato Latkes](recipes/sweet_potato_latkes.md)
 
 ---
 
