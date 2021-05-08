@@ -12,8 +12,7 @@ jobs:
       - name: Generate index
         uses: docker://aoswalt/notoriety
         with:
-          entrypoint: /bin/sh
-          args: -c "cd /github/workspace && notoriety"
+          args: --root-dir /github/workspace
 
       - name: Commit index
         uses: stefanzweifel/git-auto-commit-action@v4
