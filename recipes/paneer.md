@@ -6,23 +6,24 @@ source: https://www.thekitchn.com/how-to-make-paneer-cheese-in-30-minutes-cookin
 # Paneer
 
 ## Yield
+
 Makes about 10 ounces or 2 cups of cheese cubes
 
 ## Ingredients
 
-* 1/2 gallon whole milk, not UHT pasteurized
-* 1/4 cup lemon juice or vinegar
-* 1/2 teaspoon salt
+- 1/2 gallon whole milk, not UHT pasteurized
+- 1/4 cup lemon juice or vinegar
+- 1/2 teaspoon salt
 
 Equipment
 
-* 4-quart saucepan
-* Slotted spoon
-* Strainer or colander
-* Mixing bowl
-* Cheesecloth, nut bag, or other cloths for straining
-* Dinner plates
-* Weights, like a 32-ounce can of tomatoes
+- 4-quart saucepan
+- Slotted spoon
+- Strainer or colander
+- Mixing bowl
+- Cheesecloth, nut bag, or other cloths for straining
+- Dinner plates
+- Weights, like a 32-ounce can of tomatoes
 
 ## Directions
 
@@ -37,4 +38,4 @@ Equipment
 
 ## Notes
 
-* Using the Leftover Whey: The leftover whey can be used in place of water in any baking recipe
+- Using the Leftover Whey: The leftover whey can be used in place of water in any baking recipe

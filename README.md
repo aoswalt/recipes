@@ -1,27 +1,41 @@
 # Recipes
 
 * beef
-  * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
-  * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
+  * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
+  * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
 
 * chicken
-  * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
-  * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
+  * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+  * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
+  * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
 
 * main_course
-  * [Chicken Tikka Masala](recipes/chicken_tikka_masala.md)
-  * [Chunky Beef Stew](recipes/chunky_beef_stew.md)
-  * [Easy Weeknight Chili](recipes/easy_weeknight_chili.md)
-  * [Pressure Cooker Green Chili](recipes/pressure_cooker_green_chili.md)
-  * [Sweet Potato Latkes](recipes/sweet_potato_latkes.md)
+  * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+  * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
+  * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
+  * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
+  * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
+  * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
+  * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
+  * [Pork Vindaloo](recipes/pork-vindaloo.md)
+  * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
+  * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
+
+* pork
+  * [Pork Vindaloo](recipes/pork-vindaloo.md)
 
 * side_dish
-  * [Apple Chutney](recipes/apple_chutney.md)
-  * [Green Quinoa Tabbouleh](recipes/green_quinoa_tabbouleh.md)
-  * [Jalapeno Lime Sour Cream](recipes/jalapeno_lime_sour_cream.md)
+  * [Apple Chutney](recipes/apple-chutney.md)
+  * [Baked Cowboy Dip](recipes/baked-cowboy-dip.md)
+  * [Green Quinoa Tabbouleh](recipes/green-quinoa-tabbouleh.md)
+  * [Jalapeno Lime Sour Cream](recipes/jalapeno-lime-sour-cream.md)
+  * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Paneer](recipes/paneer.md)
   * [Socca](recipes/socca.md)
-  * [Sweet Potato Latkes](recipes/sweet_potato_latkes.md)
+  * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
+
+* tofu
+  * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
 
 ---
 

@@ -9,23 +9,23 @@ Vibrant salad that pairs well with highly-seasoned, smoky meats.
 
 ## Time
 
-* Prep: 25 m
-* Cook: 20 m
-* Ready In: 3 h
+- Prep: 25 m
+- Cook: 20 m
+- Ready In: 3 h
 
 ## Ingredients
 
-* 6 cups water
-* 2 large bunches curly parsley, stemmed
-* 1 large bunch fresh mint, stemmed
-* 1 bunch fresh tarragon, stemmed
-* 2 cups white quinoa
-* salt to taste
-* 2 cloves garlic, or more to taste
-* 2 lemons, halved, or more to taste
-* 1/2 cup extra-virgin olive oil
-* 1 pinch salt and freshly ground black pepper to taste
-* cayenne pepper
+- 6 cups water
+- 2 large bunches curly parsley, stemmed
+- 1 large bunch fresh mint, stemmed
+- 1 bunch fresh tarragon, stemmed
+- 2 cups white quinoa
+- salt to taste
+- 2 cloves garlic, or more to taste
+- 2 lemons, halved, or more to taste
+- 1/2 cup extra-virgin olive oil
+- 1 pinch salt and freshly ground black pepper to taste
+- cayenne pepper
 
 ## Directions
 

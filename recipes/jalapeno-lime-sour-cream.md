@@ -11,10 +11,10 @@ Approximately 10 tablespoons
 
 ## Ingredients
 
-* 1/2 cup sour cream
-* 1 medium lime, zest and juice
-* 1 medium jalapeno, seeded and finely diced
-* salt and pepper
+- 1/2 cup sour cream
+- 1 medium lime, zest and juice
+- 1 medium jalapeno, seeded and finely diced
+- salt and pepper
 
 ## Directions
 

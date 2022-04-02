@@ -4,17 +4,17 @@ tags: [side_dish]
 
 # Socca
 
-* Yield: Serves 4
-* Prep Time: 5 minutes to 10 minutes
-* Cook Time: 6 minutes to 8 minutes
+- Yield: Serves 4
+- Prep Time: 5 minutes to 10 minutes
+- Cook Time: 6 minutes to 8 minutes
 
 ## Ingredients
 
-* 1 cup chickpea flour (4 1/2 ounces)
-* 1 cup water
-* 1 1/2 tablespoons extra-virgin olive oil, plus more for the pan and drizzling
-* 1/2 teaspoon kosher salt
-* 1 teaspoon za'atar (optional)
+- 1 cup chickpea flour (4 1/2 ounces)
+- 1 cup water
+- 1 1/2 tablespoons extra-virgin olive oil, plus more for the pan and drizzling
+- 1/2 teaspoon kosher salt
+- 1 teaspoon za'atar (optional)
 
 ## Directions
 

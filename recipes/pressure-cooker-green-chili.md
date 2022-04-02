@@ -5,25 +5,25 @@ source: https://www.seriouseats.com/recipes/2015/04/print/pressure-cooker-fast-a
 
 # Pressure Cooker Green Chili
 
-* Yield: Serves 4 to 6
-* Active Time: 10 minutes
-* Total Time: 30 minutes
+- Yield: Serves 4 to 6
+- Active Time: 10 minutes
+- Total Time: 30 minutes
 
 ## Ingredients
 
-* 3 pounds bone-in skin-on chicken thighs and drumsticks
-* 3/4 pound tomatillos, quartered, husks discarded (about 4 tomatillos)
-* 1 pound poblano peppers, roughly chopped, seeds and stems discarded (about 3 peppers)
-* 6 ounces Anaheim or Cubanelle peppers, roughly chopped, seeds and stems discarded (about 2 peppers)
-* 2 Serrano or jalapeño chilies, roughly chopped, stems discarded
-* 10 ounces white onion, roughly chopped (about 1 medium)
-* 6 medium cloves garlic, peeled
-* 1 tablespoon whole cumin seed, toasted and ground
-* Kosher salt
-* 1/2 cup loosely packed fresh cilantro leaves and fine stems, plus more for garnish
-* 1 tablespoon Asian fish sauce, such as Red Boat
-* 1 can Cannelloni beans
-* 1 tbsp Corn starch for thickening
+- 3 pounds bone-in skin-on chicken thighs and drumsticks
+- 3/4 pound tomatillos, quartered, husks discarded (about 4 tomatillos)
+- 1 pound poblano peppers, roughly chopped, seeds and stems discarded (about 3 peppers)
+- 6 ounces Anaheim or Cubanelle peppers, roughly chopped, seeds and stems discarded (about 2 peppers)
+- 2 Serrano or jalapeño chilies, roughly chopped, stems discarded
+- 10 ounces white onion, roughly chopped (about 1 medium)
+- 6 medium cloves garlic, peeled
+- 1 tablespoon whole cumin seed, toasted and ground
+- Kosher salt
+- 1/2 cup loosely packed fresh cilantro leaves and fine stems, plus more for garnish
+- 1 tablespoon Asian fish sauce, such as Red Boat
+- 1 can Cannelloni beans
+- 1 tbsp Corn starch for thickening
 
 ## Directions
 
@@ -37,4 +37,4 @@ source: https://www.seriouseats.com/recipes/2015/04/print/pressure-cooker-fast-a
 
 ## Notes
 
-* Best to double the recipe
+- Best to double the recipe

@@ -5,30 +5,30 @@ source: http://allrecipes.com/recipe/228293/curry-stand-chicken-tikka-masala-sau
 
 # Chicken Tikka Masala
 
-* Prep: 15 m
-* Cook: 1 h 5 m
-* Ready In: 1 h 20 m
+- Prep: 15 m
+- Cook: 1 h 5 m
+- Ready In: 1 h 20 m
 
 ## Ingredients
 
-* 2 tablespoons ghee (clarified butter)
-* 1 onion, finely chopped
-* 4 cloves garlic, minced
-* 1 tablespoon ground cumin
-* 1 teaspoon salt
-* 1 teaspoon ground ginger
-* 1 teaspoon cayenne pepper
-* 1/2 teaspoon ground cinnamon
-* 1/4 teaspoon ground turmeric
-* 1 (14 ounce) can tomato sauce
-* 1 cup heavy whipping cream
-* 2 teaspoons paprika
-* 1 tablespoon white sugar
-* 1 tablespoon vegetable oil
-* 4 skinless, boneless chicken breast halves, cut into bite-size pieces
-* 1/2 teaspoon curry powder
-* 1/2 teaspoon salt, or to taste (optional)
-* 1 teaspoon white sugar, or to taste (optional)
+- 2 tablespoons ghee (clarified butter)
+- 1 onion, finely chopped
+- 4 cloves garlic, minced
+- 1 tablespoon ground cumin
+- 1 teaspoon salt
+- 1 teaspoon ground ginger
+- 1 teaspoon cayenne pepper
+- 1/2 teaspoon ground cinnamon
+- 1/4 teaspoon ground turmeric
+- 1 (14 ounce) can tomato sauce
+- 1 cup heavy whipping cream
+- 2 teaspoons paprika
+- 1 tablespoon white sugar
+- 1 tablespoon vegetable oil
+- 4 skinless, boneless chicken breast halves, cut into bite-size pieces
+- 1/2 teaspoon curry powder
+- 1/2 teaspoon salt, or to taste (optional)
+- 1 teaspoon white sugar, or to taste (optional)
 
 ## Directions
 

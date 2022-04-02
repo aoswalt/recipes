@@ -4,21 +4,21 @@ tags: [main_course, beef]
 
 # Chunky Beef Stew
 
-* Prep time: 25 minutes
-* Cook time: 25 minutes
+- Prep time: 25 minutes
+- Cook time: 25 minutes
 
 ## Ingredients
 
-* 3/4 pound boneless beef sirloin steak, cut into 1-inch cubes
-* 3/4 pound tiny new potatoes, halved
-* 1 package (9 ounces) frozen cut green beans (2 cups)
-* 4 carrots, peeled and cut into 1-inch pieces
-* 1 onion, cut into thin wedges
-* 1 can (14 ounces) low-sodium beef broth
-* 1 tablespoon Worcestershire sauce
-* 1 1/2 teaspoons dried Italian seasoning
-* 1/4 teaspoon black pepper
-* 1 1/2 cans (8 ounces each) tomato sauce
+- 3/4 pound boneless beef sirloin steak, cut into 1-inch cubes
+- 3/4 pound tiny new potatoes, halved
+- 1 package (9 ounces) frozen cut green beans (2 cups)
+- 4 carrots, peeled and cut into 1-inch pieces
+- 1 onion, cut into thin wedges
+- 1 can (14 ounces) low-sodium beef broth
+- 1 tablespoon Worcestershire sauce
+- 1 1/2 teaspoons dried Italian seasoning
+- 1/4 teaspoon black pepper
+- 1 1/2 cans (8 ounces each) tomato sauce
 
 ## Directions
 

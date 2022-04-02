@@ -7,24 +7,24 @@ source: The Food Lab, p 262
 
 ## Ingredients
 
-* 4 tbsp butter
-* 2 medium white onions, grated or diced
-* 3 cloves garlic, grated or minced
-* 1 1/2 tsp oregano
-* Kosher salt
-* 2 chipotle chilis with adobo sauce, finely chopped
-* 1 tsp fish sauce
-* 1/3 cup chili powder
-* 1 1/2 tbsp ground cumin
-* 1/2 cup tomato paste
-* 2 lbs ground chuck
-* 1 - 28 oz can San Marzano tomatoes
-* 1 - 15 oz can diced tomatoes
-* 2 - 15 oz can kidney beans
-* 1 cup chicken stock
-* 3 tbsp instant cornmeal
-* 2 tbsp whiskey or vodka
-* freshly ground black pepper
+- 4 tbsp butter
+- 2 medium white onions, grated or diced
+- 3 cloves garlic, grated or minced
+- 1 1/2 tsp oregano
+- Kosher salt
+- 2 chipotle chilis with adobo sauce, finely chopped
+- 1 tsp fish sauce
+- 1/3 cup chili powder
+- 1 1/2 tbsp ground cumin
+- 1/2 cup tomato paste
+- 2 lbs ground chuck
+- 1 - 28 oz can San Marzano tomatoes
+- 1 - 15 oz can diced tomatoes
+- 2 - 15 oz can kidney beans
+- 1 cup chicken stock
+- 3 tbsp instant cornmeal
+- 2 tbsp whiskey or vodka
+- freshly ground black pepper
 
 ## Directions
 

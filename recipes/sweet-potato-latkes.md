@@ -7,12 +7,12 @@ source: https://basicswithbabish.co/basicsepisodes/latkes
 
 ## Ingredients
 
-* 2 lbs sweet potatoes
-* 1 white onion
-* 4 eggs
-* 1 cup bread crumbs
-* vegetable oil
-* kosher salt
+- 2 lbs sweet potatoes
+- 1 white onion
+- 4 eggs
+- 1 cup bread crumbs
+- vegetable oil
+- kosher salt
 
 ## Directions
 
@@ -30,6 +30,6 @@ source: https://basicswithbabish.co/basicsepisodes/latkes
 
 Suggested toppings:
 
-* [Apple Chutney](./apple_chutney.md)
-* [Jalapeno Lime Sour Cream](./jalapeno_lime_sour_cream.md)
-* cream cheese and red pepper jelly
+- [Apple Chutney](./apple_chutney.md)
+- [Jalapeno Lime Sour Cream](./jalapeno_lime_sour_cream.md)
+- cream cheese and red pepper jelly
