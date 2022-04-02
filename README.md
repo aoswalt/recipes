@@ -19,6 +19,7 @@
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
+  * [Pasta Salad](recipes/pasta-salad.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
@@ -37,6 +38,7 @@
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Paneer](recipes/paneer.md)
+  * [Pasta Salad](recipes/pasta-salad.md)
   * [Socca](recipes/socca.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
 
