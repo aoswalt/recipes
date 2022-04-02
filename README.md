@@ -3,6 +3,7 @@
 * beef
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
+  * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
 
 * chicken
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
@@ -17,19 +18,24 @@
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
+  * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
+  * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
 
 * pork
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
+  * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
 
 * side_dish
   * [Apple Chutney](recipes/apple-chutney.md)
   * [Baked Cowboy Dip](recipes/baked-cowboy-dip.md)
+  * [Cheesy Mashed Potato Pancakes](recipes/cheesy-mashed-potato-pancakes.md)
   * [Green Quinoa Tabbouleh](recipes/green-quinoa-tabbouleh.md)
   * [Jalapeno Lime Sour Cream](recipes/jalapeno-lime-sour-cream.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
+  * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Paneer](recipes/paneer.md)
   * [Socca](recipes/socca.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
