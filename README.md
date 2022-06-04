@@ -24,6 +24,7 @@
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
+  * [Zucchini Lasagna](recipes/zucchini-lasagna.md)
 
 * pork
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
