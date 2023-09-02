@@ -1,6 +1,6 @@
 ---
 tags: []
-source: The Project Gutenberg eBook of
+source: https://glutenfreeonashoestring.com/all-purpose-gluten-free-flour-recipes/
 ---
 
 # Gluten Free Flour Blend (Mock Better Batter)
