@@ -9,12 +9,13 @@ Makes 2 pizzas
 
 ## Ingredients
 
-- 3 cups (420 g) all purpose gluten free flour blend
+- 2 3/4 cups (385 g) all purpose gluten free flour blend
 - 2 1/4 tsp xantham gum (if blend does not contain it)
+- 1/4 cup (36 g) Expandex modified tapioca starch
 - 1 Tbsp (9 g) instant yeast
 - 1 1/2 tsp (6 g) granulated sugar
 - 1 1/2 tsp (6 g) kosher salt
-- 1 1/8 cups (9 oz) warm water (about 95*F)
+- 1 1/1 cups + 1 Tbsp (10 1/2 oz) (310 g) warm water (about 95*F)
 - 4 1/2 Tbsp (63 g) exta-virgin olive oil
 
 ## Directions
@@ -38,7 +39,3 @@ Makes 2 pizzas
 2. Remove the crust from the oven using a pizza peel or large spatula. At this point, the parbaked crust can be cooled completed, wrapped tightly and frozen for at least one month. Simply defrost at room temperature, and then continue with the recipe as written.
 3. To continue preparing the dough, add your favorite toppings to the parbaked crust, and return the pizza to the hot oven until any cheese is melted and the edges have browned and puffed (another 5 to 7 minutes).
 4. Remove the pizza from the oven using a pizza peel or large spatula, and allow it to set for 5 minutes before slicing and serving.
-
-## Notes
-
-Optional variation for chewier pizza. Instead of 3 cups (420 g) all purpose gluten free flour, use 2 3/4 cups (385 g) all purpose gluten free flour and add 1/4 cup (36 g) Expandex modified tapioca starch and increase the water by 1 1/2 ounces to 10 1/2 ounces (1 1/4 cups + 1 tablespoon) water.
