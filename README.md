@@ -7,8 +7,12 @@
 
 * chicken
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+  * [Gumbo](recipes/gumbo.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
+
+* main_cource
+  * [Gumbo](recipes/gumbo.md)
 
 * main_course
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
@@ -28,6 +32,7 @@
   * [Zucchini Lasagna](recipes/zucchini-lasagna.md)
 
 * pork
+  * [Gumbo](recipes/gumbo.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
 
@@ -35,6 +40,7 @@
   * [Apple Chutney](recipes/apple-chutney.md)
   * [Baked Cowboy Dip](recipes/baked-cowboy-dip.md)
   * [Cheesy Mashed Potato Pancakes](recipes/cheesy-mashed-potato-pancakes.md)
+  * [Cole Slaw](recipes/cole-slaw.md)
   * [Green Quinoa Tabbouleh](recipes/green-quinoa-tabbouleh.md)
   * [Jalapeno Lime Sour Cream](recipes/jalapeno-lime-sour-cream.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
@@ -51,6 +57,7 @@
 
 * untagged
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
+  * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
 
 ---
 
