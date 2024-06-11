@@ -26,6 +26,7 @@
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Pasta Salad](recipes/pasta-salad.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
+  * [Pozole Rojo](recipes/pozole-rojo.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
@@ -34,6 +35,7 @@
 * pork
   * [Gumbo](recipes/gumbo.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
+  * [Pozole Rojo](recipes/pozole-rojo.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
 
 * side_dish
