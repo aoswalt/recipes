@@ -7,6 +7,7 @@
 
 * chicken
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+  * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
   * [Gumbo](recipes/gumbo.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
@@ -20,10 +21,12 @@
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
   * [Gluten Free Pizza Dough](recipes/gluten-free-pizza-dough.md)
+  * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
+  * [Paneer Tikka Masala](recipes/paneer-tikka-masala.md)
   * [Pasta Salad](recipes/pasta-salad.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Pozole Rojo](recipes/pozole-rojo.md)
@@ -52,12 +55,16 @@
   * [Socca](recipes/socca.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
 
+* snacks
+  * [Mushroom Jerky](recipes/mushroom-jerky.md)
+
 * tofu
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
 
 ---
 
 * untagged
+  * [Ginger Garlic Paste](recipes/ginger-garlic-paste.md)
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
   * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
 
