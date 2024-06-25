@@ -52,6 +52,7 @@
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Paneer](recipes/paneer.md)
   * [Pasta Salad](recipes/pasta-salad.md)
+  * [Pineapple Sriracha Salsa](recipes/pineapple-sriracha-salsa.md)
   * [Socca](recipes/socca.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
 
