@@ -68,6 +68,7 @@
   * [Ginger Garlic Paste](recipes/ginger-garlic-paste.md)
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
   * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
+  * [Granola](recipes/granola.md)
 
 ---
 
