@@ -33,6 +33,7 @@
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
+  * [Wild Rice and Mushroom Soup](recipes/wild-rice-and-mushroom-soup.md)
   * [Zucchini Lasagna](recipes/zucchini-lasagna.md)
 
 * pork
@@ -48,9 +49,9 @@
   * [Cole Slaw](recipes/cole-slaw.md)
   * [Green Quinoa Tabbouleh](recipes/green-quinoa-tabbouleh.md)
   * [Jalapeno Lime Sour Cream](recipes/jalapeno-lime-sour-cream.md)
+  * [Jeera Rice](recipes/jeera-rice.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
-  * [Paneer](recipes/paneer.md)
   * [Pasta Salad](recipes/pasta-salad.md)
   * [Pineapple Sriracha Salsa](recipes/pineapple-sriracha-salsa.md)
   * [Socca](recipes/socca.md)
@@ -69,6 +70,7 @@
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
   * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
   * [Granola](recipes/granola.md)
+  * [Paneer](recipes/paneer.md)
 
 ---
 
