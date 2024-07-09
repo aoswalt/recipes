@@ -1,5 +1,5 @@
 ---
-tags: [main_cource, chicken, pork]
+tags: [main_course, chicken, pork]
 source: [https://asprinklingofcayenne.com/wprm_print/5940#, https://www.babi.sh/recipes/cajunfood]
 ---
 
