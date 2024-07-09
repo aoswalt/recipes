@@ -12,9 +12,6 @@
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
 
-* main_cource
-  * [Gumbo](recipes/gumbo.md)
-
 * main_course
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
@@ -22,6 +19,7 @@
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
   * [Gluten Free Pizza Dough](recipes/gluten-free-pizza-dough.md)
   * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
+  * [Gumbo](recipes/gumbo.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
