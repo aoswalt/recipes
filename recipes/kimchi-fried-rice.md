@@ -7,7 +7,7 @@ source: https://www.cookinglight.com/recipes/kimchi-fried-rice
 
 Serves 4 (serving size: 1 1/2 cups)
 
-##Ingredients
+## Ingredients
 
 - 1 1/2 teaspoons toasted sesame oil
 - 2 lightly beaten large eggs

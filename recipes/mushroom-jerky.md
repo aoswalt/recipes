@@ -8,8 +8,8 @@ source: [
 
 # Mushroom Jerky
 
-Prep time: 15 minutes
-Cook time: 2 hours
+- Prep time: 15 minutes
+- Cook time: 2 hours
 
 ## Ingredients
 

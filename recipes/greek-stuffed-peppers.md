@@ -5,8 +5,8 @@ source: https://www.delish.com/cooking/recipe-ideas/a53576/greek-stuffed-peppers
 
 # Greek Stuffed Peppers
 
-Prep Time: 35 mins
-Total Time: 1 hr 20 mins
+- Prep Time: 35 mins
+- Total Time: 1 hr 20 mins
 
 ## Ingredients
 

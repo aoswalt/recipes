@@ -5,9 +5,9 @@ source: https://dishingouthealth.com/wild-rice-mixed-mushroom-soup/
 
 # Wild Rice and Mushroom Soup
 
-Prep Time: 15 minutes minutes
-Cook Time: 1 hour hour 10 minutes minutes
-Total Time: 1 hour hour 25 minutes minutes
+- Prep Time: 15 minutes minutes
+- Cook Time: 1 hour hour 10 minutes minutes
+- Total Time: 1 hour hour 25 minutes minutes
 
 ## Ingredients
 
