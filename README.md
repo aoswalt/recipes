@@ -1,6 +1,7 @@
 # Recipes
 
 * beef
+  * [Birria](recipes/birria.md)
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
@@ -13,6 +14,7 @@
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
 
 * main_course
+  * [Birria](recipes/birria.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
