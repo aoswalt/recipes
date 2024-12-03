@@ -25,7 +25,7 @@ source: https://www.seriouseats.com/no-waste-tacos-de-carnitas-with-salsa-verde-
 - 1 cup (150g) crumbled queso fresco or feta
 - 3 limes, cut into wedges
 
-Directions
+## Directions
 
 1. Adjust oven rack to middle position and preheat oven to 275°F (135°C). Cut one onion into fine dice and combine with cilantro. Refrigerate until needed. Split remaining onion into quarters. Set aside. Season pork with 1 tablespoon salt and place in a 9- by 13-inch glass baking dish. The pork should fill the dish with no extra space. Split orange into quarters and squeeze juice over pork. Nestle squeezed orange pieces into dish. Add 2 onion quarters, 4 cloves garlic, bay leaves, and cinnamon stick to dish. Nestle everything into an even layer. Pour vegetable oil over surface. Cover dish tightly with aluminum foil and place in oven. Cook until pork is fork tender, about 3 1/2 hours.
 2. Set large fine-mesh strainer over a 1-quart liquid measuring cup or bowl. Using tongs, remove and discard orange peel, onion, garlic, cinnamon stick, and bay leaves. Transfer pork, rendered fat, and cooking liquid to strainer. Let drain for 10 minutes. Transfer pork back to baking dish. You should end up with about 1/2 cup cooking liquid and 1/2 cup fat. Using a flat spoon or fat separator, skim fat from surface and add back to pork. Shred pork into large chunks with fingers or two forks. Season to taste with salt. Refrigerate until ready to serve. Transfer remaining cooking liquid to medium saucepan.
