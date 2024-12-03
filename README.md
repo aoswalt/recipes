@@ -13,6 +13,9 @@
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
 
+* dessert
+  * [Strawberry Rhubarb Pie](recipes/strawberry-rhubarb-pie.md)
+
 * main_course
   * [Birria](recipes/birria.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
@@ -31,6 +34,7 @@
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Pozole Rojo](recipes/pozole-rojo.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
+  * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
   * [Wild Rice and Mushroom Soup](recipes/wild-rice-and-mushroom-soup.md)
@@ -68,9 +72,11 @@
 * untagged
   * [Ginger Garlic Paste](recipes/ginger-garlic-paste.md)
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
+  * [Gluten Free Pie Crust](recipes/gluten-free-pie-crust.md)
   * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
   * [Granola](recipes/granola.md)
   * [Paneer](recipes/paneer.md)
+  * [Queso / Cheese Sauce](recipes/queso-cheese-sauce.md)
 
 ---
 
