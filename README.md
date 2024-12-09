@@ -18,6 +18,7 @@
 
 * main_course
   * [Birria](recipes/birria.md)
+  * [Cashew Chicken](recipes/cashew-chicken.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
@@ -60,6 +61,7 @@
   * [Pineapple Sriracha Salsa](recipes/pineapple-sriracha-salsa.md)
   * [Socca](recipes/socca.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
+  * [Zucchini Mushroom Stir Fry](recipes/zucchini-mushroom-stir-fry.md)
 
 * snacks
   * [Mushroom Jerky](recipes/mushroom-jerky.md)
