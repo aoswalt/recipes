@@ -1,5 +1,5 @@
 ---
-tags: [main_course]
+tags: [main_course, chicken]
 source: https://diaryofarecipeaddict.blogspot.com/2011/07/sweet-spicy-bacon-chicken.html?m=1
 ---
 

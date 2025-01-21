@@ -1,5 +1,5 @@
 ---
-tags: [main_course]
+tags: [main_course, chicken]
 source: https://shuangyskitchensink.com/wprm_print/instant-pot-cashew-chicken-20-minutes
 ---
 
