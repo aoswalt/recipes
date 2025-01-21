@@ -7,14 +7,20 @@
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
 
 * chicken
+  * [Cashew Chicken](recipes/cashew-chicken.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
+  * [Fajita Chicken (Babish)](recipes/fajita-chicken-babish.md)
   * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
   * [Gumbo](recipes/gumbo.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
+  * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
 
 * dessert
   * [Strawberry Rhubarb Pie](recipes/strawberry-rhubarb-pie.md)
+
+* fish
+  * [Lemon Butter Fish Tacos](recipes/lemon-butter-fish-tacos.md)
 
 * main_course
   * [Birria](recipes/birria.md)
@@ -23,12 +29,14 @@
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
+  * [Fajita Chicken (Babish)](recipes/fajita-chicken-babish.md)
   * [Gluten Free Pizza Dough](recipes/gluten-free-pizza-dough.md)
   * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
   * [Gumbo](recipes/gumbo.md)
   * [Karaage (Japanese Fried Chicken)](recipes/karage-japanese-fried-chicken.md)
   * [Kimchi Fried Rice](recipes/kimchi-fried-rice.md)
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
+  * [Lemon Butter Fish Tacos](recipes/lemon-butter-fish-tacos.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Paneer Tikka Masala](recipes/paneer-tikka-masala.md)
   * [Pasta Salad](recipes/pasta-salad.md)
@@ -38,6 +46,7 @@
   * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
+  * [Thai Red Curry Vegetable Soup](recipes/thai-red-curry-vegetable-soup.md)
   * [Wild Rice and Mushroom Soup](recipes/wild-rice-and-mushroom-soup.md)
   * [Zucchini Lasagna](recipes/zucchini-lasagna.md)
 
@@ -68,6 +77,9 @@
 
 * tofu
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
+
+* vegetarian
+  * [Thai Red Curry Vegetable Soup](recipes/thai-red-curry-vegetable-soup.md)
 
 ---
 
