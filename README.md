@@ -8,6 +8,7 @@
 
 * chicken
   * [Cashew Chicken](recipes/cashew-chicken.md)
+  * [Chicken Enchiladas](recipes/chicken-enchiladas.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Fajita Chicken (Babish)](recipes/fajita-chicken-babish.md)
   * [Greek Stuffed Peppers](recipes/greek-stuffed-peppers.md)
@@ -25,6 +26,7 @@
 * main_course
   * [Birria](recipes/birria.md)
   * [Cashew Chicken](recipes/cashew-chicken.md)
+  * [Chicken Enchiladas](recipes/chicken-enchiladas.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
