@@ -49,6 +49,7 @@
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
   * [Thai Red Curry Vegetable Soup](recipes/thai-red-curry-vegetable-soup.md)
+  * [Vegan Mushroom Stew](recipes/vegan-mushroom-stew.md)
   * [Wild Rice and Mushroom Soup](recipes/wild-rice-and-mushroom-soup.md)
   * [Zucchini Lasagna](recipes/zucchini-lasagna.md)
 
