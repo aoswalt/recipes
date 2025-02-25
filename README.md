@@ -5,6 +5,7 @@
   * [Chunky Beef Stew](recipes/chunky-beef-stew.md)
   * [Easy Weeknight Chili](recipes/easy-weeknight-chili.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
+  * [Pot Roast](recipes/pot-roast.md)
 
 * chicken
   * [Cashew Chicken](recipes/cashew-chicken.md)
@@ -43,6 +44,7 @@
   * [Paneer Tikka Masala](recipes/paneer-tikka-masala.md)
   * [Pasta Salad](recipes/pasta-salad.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
+  * [Pot Roast](recipes/pot-roast.md)
   * [Pozole Rojo](recipes/pozole-rojo.md)
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
