@@ -64,6 +64,7 @@
 * side_dish
   * [Apple Chutney](recipes/apple-chutney.md)
   * [Baked Cowboy Dip](recipes/baked-cowboy-dip.md)
+  * [Baked Potatoes](recipes/baked-potatoes.md)
   * [Cheesy Mashed Potato Pancakes](recipes/cheesy-mashed-potato-pancakes.md)
   * [Cole Slaw](recipes/cole-slaw.md)
   * [Green Quinoa Tabbouleh](recipes/green-quinoa-tabbouleh.md)
