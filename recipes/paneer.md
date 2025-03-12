@@ -3,7 +3,7 @@ tags: []
 source: https://www.thekitchn.com/how-to-make-paneer-cheese-in-30-minutes-cooking-lessons-from-the-kitchn-57008
 ---
 
-# Paneer
+# Farmer's Cheese / Paneer
 
 ## Yield
 
@@ -15,7 +15,7 @@ Makes about 10 ounces or 2 cups of cheese cubes
 - 1/4 cup lemon juice or vinegar
 - 1/2 teaspoon salt
 
-Equipment
+## Equipment
 
 - 4-quart saucepan
 - Slotted spoon
@@ -33,6 +33,7 @@ Equipment
 4. Set a strainer or colander over a mixing bowl and line it with cheesecloth or other straining cloth. Carefully scoop or pour the curds into the strainer, letting the whey collect in the bowl beneath.
 5. Gather the cheesecloth in your hand and gently squeeze to remove the excess whey.
 6. Open the cheesecloth and sprinkle 1/4 teaspoon of salt over the curds. Stir gently and taste. Add more salt if desired.
+  - Stop at this step for farmer's cheese
 7. Transfer the curds (still in the cheesecloth) to a large dinner plate. Shape them into a rough square and then fold the cheesecloth tightly around the curds to form a neat rectangular package. Set a second plate on top of the package and weigh it down. Press for at least 15 minutes or up to 1 hour.
 8. Once pressed, your paneer is finished and ready to use. You can use it immediately or refrigerate for up to two days. Refrigerated paneer will be firmer and less likely to crumble than fresh paneer.
 
