@@ -9,6 +9,7 @@
 
 * chicken
   * [Cashew Chicken](recipes/cashew-chicken.md)
+  * [Chicken Cordon Bleu Casserole](recipes/chicken-cordon-bleu-casserole.md)
   * [Chicken Enchiladas](recipes/chicken-enchiladas.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Fajita Chicken (Babish)](recipes/fajita-chicken-babish.md)
@@ -27,6 +28,7 @@
 * main_course
   * [Birria](recipes/birria.md)
   * [Cashew Chicken](recipes/cashew-chicken.md)
+  * [Chicken Cordon Bleu Casserole](recipes/chicken-cordon-bleu-casserole.md)
   * [Chicken Enchiladas](recipes/chicken-enchiladas.md)
   * [Chicken Tikka Masala](recipes/chicken-tikka-masala.md)
   * [Choripán (Grilled Chorizo Sandwich with Chimichurri)](recipes/choripan-grilled-chorizo-sandwiches.md)
@@ -90,12 +92,13 @@
 ---
 
 * untagged
+  * [Farmer's Cheese / Paneer](recipes/paneer.md)
   * [Ginger Garlic Paste](recipes/ginger-garlic-paste.md)
   * [Gluten Free Flour Blend (Mock Better Batter)](recipes/gluten-free-flour-blend-mock-better-batter.md)
   * [Gluten Free Pie Crust](recipes/gluten-free-pie-crust.md)
   * [Gluten Free Sourdough Bread](recipes/gluten-free-sourdough-bread.md)
   * [Granola](recipes/granola.md)
-  * [Paneer](recipes/paneer.md)
+  * [Pierogi](recipes/pierogi.md)
   * [Queso / Cheese Sauce](recipes/queso-cheese-sauce.md)
 
 ---
