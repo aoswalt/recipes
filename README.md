@@ -52,6 +52,7 @@
   * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
   * [Sweet Potato Latkes](recipes/sweet-potato-latkes.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
+  * [Tamale Soup with Tamale Dumplings](recipes/tamale-soup-with-tamale-dumplings.md)
   * [Thai Red Curry Vegetable Soup](recipes/thai-red-curry-vegetable-soup.md)
   * [Vegan Mushroom Stew](recipes/vegan-mushroom-stew.md)
   * [Wild Rice and Mushroom Soup](recipes/wild-rice-and-mushroom-soup.md)
@@ -87,6 +88,7 @@
   * [Kimchi Soondubu Jjigae](recipes/kimchi-soondubu-jigae.md)
 
 * vegetarian
+  * [Tamale Soup with Tamale Dumplings](recipes/tamale-soup-with-tamale-dumplings.md)
   * [Thai Red Curry Vegetable Soup](recipes/thai-red-curry-vegetable-soup.md)
 
 ---
