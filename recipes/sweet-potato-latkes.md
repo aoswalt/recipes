@@ -30,6 +30,6 @@ source: https://basicswithbabish.co/basicsepisodes/latkes
 
 Suggested toppings:
 
-- [Apple Chutney](./apple_chutney.md)
-- [Jalapeno Lime Sour Cream](./jalapeno_lime_sour_cream.md)
+- [Apple Chutney](./apple-chutney.md)
+- [Jalapeno Lime Sour Cream](./jalapeno-lime-sour-cream.md)
 - cream cheese and red pepper jelly
