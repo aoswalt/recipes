@@ -59,6 +59,7 @@
   * [Lemon Butter Fish Tacos](recipes/lemon-butter-fish-tacos.md)
   * [Paleo Beef Empanadas](recipes/paleo-beef-empanadas.md)
   * [Paneer Tikka Masala](recipes/paneer-tikka-masala.md)
+  * [Parmesan Baked Pork Chops](recipes/parmesan-baked-pork-chops.md)
   * [Pasta Alla Caponata](recipes/pasta-alla-caponata.md)
   * [Pasta Salad](recipes/pasta-salad.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
@@ -79,6 +80,7 @@
 
 * pork
   * [Gumbo](recipes/gumbo.md)
+  * [Parmesan Baked Pork Chops](recipes/parmesan-baked-pork-chops.md)
   * [Pork Vindaloo](recipes/pork-vindaloo.md)
   * [Pozole Rojo](recipes/pozole-rojo.md)
   * [Tacos de Carnitas With Salsa Verde](recipes/tacos-de-carnitas.md)
