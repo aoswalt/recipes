@@ -14,11 +14,11 @@ source: https://thestayathomechef.com/wprm_print/tikel-gomen-one-pot-potato-and-
 - 1/3 cup olive oil
 - 4 medium carrots sliced
 - 1 medium white onion thinly sliced
-- 3 teaspoons salt
-- 1 teaspoon black pepper
-- 1 teaspoon ground cumin
-- 1 teaspoon ground turmeric
-- 1 teaspoon ground ginger
+- 6 teaspoons salt
+- 2 teaspoon black pepper
+- 2 teaspoon ground cumin
+- 2 teaspoon ground turmeric
+- 1 tablespoon ground ginger (fresh ginger is better)
 - 1 medium green cabbage sliced
 - 5 medium red potatoes cut into bite-sized pieces
 

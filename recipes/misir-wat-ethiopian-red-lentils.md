@@ -16,7 +16,7 @@ source: https://www.daringgourmet.com/wprm_print/misir-wat-ethiopian-spiced-red-
 - 3 cloves garlic, finely minced
 - 1 Roma tomato, very finely chopped
 - 3 tablespoons tomato paste
-- 2 tablespoons bebere
+- 1 tablespoon bebere
 - 1 cup red lentils, rinsed
 - 2 1/2 cups Aneto All-Natural Chicken Broth
 - 1 teaspoon salt
