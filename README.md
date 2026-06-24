@@ -21,6 +21,9 @@
   * [Pressure Cooker Green Chili](recipes/pressure-cooker-green-chili.md)
   * [Sweet & Spicy Bacon Chicken](recipes/sweet-spicy-bacon-chicken.md)
 
+* condiment
+  * [Burger Sauce](recipes/burger-sauce.md)
+
 * dessert
   * [Strawberry Rhubarb Pie](recipes/strawberry-rhubarb-pie.md)
 
